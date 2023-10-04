@@ -9,7 +9,7 @@
 
 - 📫 Contact me at : **diwakardhawal.34@gmail.com**
 
-- ⚡ Lets talk about: ** games, dance and music**
+- ⚡ Lets talk about: **games,music and algorithms**
   
 - 👨‍💻 I code at :-
   <a href="https://www.hackerrank.com/diwakardhawal_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayush_yadav2020" height="30" width="40" /></a>
