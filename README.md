@@ -1,7 +1,4 @@
 
-
-<!-- <h1 align="center">Hi 👋, I'm Divyesh <img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"></h1> -->
-
 <h1 align="center">Hi 👋, I'm Diwakar<img height="40" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif"> </h1>
 
 - 🔭  I am currently working on Frontend Web Development & Android Development.
