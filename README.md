@@ -10,9 +10,15 @@
 
 - 👯 I’m looking to collaborate with Fullstack Web and Android Developers
 
-- 📫 How to reach me: **diwakardhawal.34@gmail.com**
+- 📫 Contact me at : **diwakardhawal.34@gmail.com**
 
-- ⚡ What I like to do: **I like gaming, cricket and music...and coding of course**
+- ⚡ Lets talk about: ** games, dance and music**
+  
+- 👨‍💻 I code at :-
+  <a href="https://www.hackerrank.com/diwakardhawal_34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@aayush_yadav2020" height="30" width="40" /></a>
+<a href="https://leetcode.com/Diwakar_Dhawal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aayushdev-02" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/diwakardhawal34/practice" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yadavaayush002" height="30" width="40" /></a>
+
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
@@ -34,10 +40,12 @@
 
 <h3 align="center">Android </h3>
 <div align="center">  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="MongoDB" height="50" /></a>
- <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlin-original-wordmark.svg" alt="Kotlin" height="50" /></a>  
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" height="50" /></a>  
+<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android" height="50" /></a>
+ <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="Kotlin" height="50" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+ <a href="https://www.androidstudio.com"><img alt="Android Studio" title="Android Studio" height="28px"
+                        src="https://i.imgur.com/6nJGNMN.png" /></a>
 </div>
 
 </td><td valign="top" width="33%">
@@ -71,7 +79,7 @@
 <!-- ------ -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Let's know each other:</h3>
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-dhawal-622616209/)
