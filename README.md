@@ -74,13 +74,12 @@
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyesh-khuva-230825169/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_ddk_.1511/)
-[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ddk1511)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuvadivyesh15@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diwakar-dhawal-622616209/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/toxically_slow_/)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakardhawal.34@gmail.com)
   
 </div>
 
 #### Thanks for visiting my Profile!! :heart: 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Divyesh1511&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Diwakar-Dhawal&label=Profile%20views&color=0e75b6&style=flat" alt="Divyesh1511" /> </p>
