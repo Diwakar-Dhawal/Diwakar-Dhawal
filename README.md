@@ -63,9 +63,9 @@
 
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Divyesh1511&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyesh1511&theme=react&layout=compact" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Divyesh1511&theme=tokyonight" alt="mystreak"/>
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Diwakar-Dhawal&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diwakar-Dhawal&theme=react&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Diwakar-Dhawal&theme=tokyonight" alt="mystreak"/>
 </p>
 
 
